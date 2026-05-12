@@ -1,0 +1,6 @@
+===== REPORTE DETALLADO =====
+1. Venta Laptop - $1200
+2. Venta Mouse - $25
+3. Venta Teclado - $45
+4. Venta Monitor - $300
+

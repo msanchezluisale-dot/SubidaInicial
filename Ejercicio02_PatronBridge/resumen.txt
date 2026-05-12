@@ -1,0 +1,5 @@
+===== REPORTE RESUMEN =====
+Total registros: 4
+Primer registro: Venta Laptop - $1200
+Último registro: Venta Monitor - $300
+
